@@ -2,7 +2,7 @@
 
 --Description
 
-Example homepage for a coffe shop called Tsunami coffee shop. It demonstrates extensive styling with use of relative units to space elements.Created with html and css.
+Example homepage for a coffe shop called Tsunami coffee shop. It demonstrates extensive styling with use of relative units to space elements. Created with html and css.
 
 --How to run
 
